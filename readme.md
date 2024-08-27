@@ -1,4 +1,4 @@
-# Trash Classification Streamlit Application
+# Image/Trash Classification Streamlit Application
 
 ## Overview
 This is a Streamlit application designed to classify different types of trash (such as cardboard, glass, and plastic) based on user-uploaded images. The application utilizes a pre-trained PyTorch model (ResNet101) for image classification, providing an interactive tool to promote recycling and environmental awareness.
