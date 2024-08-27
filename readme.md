@@ -10,7 +10,7 @@ This is a Streamlit application designed to classify different types of trash (s
 - Basic CSS styling for improved aesthetics.
 
 ## Demo
-[![Demo Video]([https://placeholder.jpg](https://i.ytimg.com/vi/N-1FEisedAA/maxresdefault.jpg))](https://www.youtube.com/watch?v=N-1FEisedAA)
+[![Demo Video]([https://i.ytimg.com/vi/N-1FEisedAA/maxresdefault.jpg])(https://www.youtube.com/watch?v=N-1FEisedAA)
 
 *Click the image above to watch the demo video.*
 
