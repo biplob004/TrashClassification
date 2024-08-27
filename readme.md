@@ -39,17 +39,17 @@ To run this application, you need the following Python packages:
 
     #### Activate the virtual environment:
 
-        ##### On Windows:
+     ##### On Windows:
 
-        ```bash
-        venv\Scripts\activate
-        ```
+     ```bash
+     venv\Scripts\activate
+     ```
 
-        ##### On macOS/Linux:
+     ##### On macOS/Linux:
 
-        ```bash 
-        source venv/bin/activate
-        ```
+     ```bash 
+     source venv/bin/activate
+     ```
 
     #### Install the required packages:
 
@@ -75,4 +75,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ### Acknowledgments
 
-    Thanks to the developers of Streamlit and PyTorch for their amazing libraries.
+Thanks to the developers of Streamlit and PyTorch for their amazing libraries.
