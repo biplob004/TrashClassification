@@ -75,4 +75,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ### Acknowledgments
 
-Thanks to the developers of Streamlit and PyTorch for their amazing libraries.
+Thanks to the developers of Streamlit and PyTorch for their amazing libraries. And special thanks to kaggle user here https://www.kaggle.com/code/keycdy/pytorch-garbage-translearing-ensemble-test-99-67 . Anyone want training code and dataset can visit this link.
